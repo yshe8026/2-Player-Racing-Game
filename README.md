@@ -4,3 +4,5 @@
 Left Screen Player Vehicle Controls: W A S D
 
 Right Screen Player Vehicle Controls: up left down right
+
+Both players can explore other keyboard keys for ERS, DRS, nitro, turbo controls.
